@@ -1,1 +1,1 @@
-# Bubble-ob-JS
+Simple calculataor
